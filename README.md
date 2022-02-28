@@ -2,6 +2,6 @@
 Desafio de Projeto sobre Git/Github
 
 ## Links úteis
-Sintaxe Básica Markdown: (https://www.markdownguide.org/getting-started/)
+Sintaxe Básica Markdown: https://www.markdownguide.org/getting-started/
 
-Instalação do Git: (https://git-scm.com/)
+Instalação do Git: https://git-scm.com/
